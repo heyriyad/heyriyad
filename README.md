@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riyad
 - 👀 I’m interested in Ecommerce Websites and Payments Gateway 💳
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Nodejs and Reactjs
 - 💞️ I’m looking to collaborate on @brandproject
 - 📫 How to reach me riyad.mahfoudi@gmail.com
 
